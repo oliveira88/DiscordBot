@@ -1,0 +1,27 @@
+{
+  "name": "discord_bot",
+  "version": "1.0.0",
+  "description": "A discord bot",
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "@types/node": "^14.0.23",
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "eslint": "^7.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ./src/bot.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliveira88/DiscordBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oliveira88/DiscordBot/issues"
+  },
+  "homepage": "https://github.com/oliveira88/DiscordBot#readme"
+}
