@@ -6,6 +6,7 @@
   "dependencies": {
     "@discordjs/opus": "^0.3.2",
     "@types/node": "^14.0.23",
+    "discord-tts": "^1.0.1",
     "discord.js": "^12.2.0",
     "dotenv": "^8.2.0",
     "eslint": "^7.4.0",
